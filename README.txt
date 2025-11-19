@@ -33,6 +33,12 @@ pip install -r requirements.txt
  
 streamlit run phishbot.py
 
+dependecies:
+streamlit
+beautifulsoup4
+requests
+pandas
+
 
 ## ⚠️ Disclaimer
 
